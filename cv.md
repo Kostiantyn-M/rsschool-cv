@@ -34,3 +34,17 @@
 * **Master degree**
 
  September 2017 - June 2020 | Ukraine, Kyiv
+
+### **SKILLS**
+
+Tech Skills:
+* HTML5/CSS
+* JavaScript
+* React.js
+* Node.js
+
+Soft Skills:
+* Scrum
+* Agile
+* Teamwork
+* GTD 
