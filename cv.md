@@ -9,6 +9,8 @@
 ### **Contacts:**
 * Phone: +38(095)528 08 16
 
+* Telegram: @bald_bearded
+
 * manitenko.naukma@gmail.com
 
 * [Github](https://github.com/Kostiantyn-M)
