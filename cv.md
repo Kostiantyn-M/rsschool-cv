@@ -9,6 +9,8 @@
 ### **Contacts:**
 * Phone: +38(095)528 08 16
 
+* Telegram: @bald_bearded
+
 * manitenko.naukma@gmail.com
 
 * [Github](https://github.com/Kostiantyn-M)
@@ -35,7 +37,7 @@ I am 26 years old and until recently I worked as a lawyer. So far, I have no exp
         assert.strictEqual(multiply(1,1), 1);
         assert.strictEqual(multiply(2,1), 2);
         assert.strictEqual(multiply(2,2), 4);
-        assert.strictEqual(multiply(3,5), 15);   
+        assert.strictEqual(multiply(3,5), 15); 
       });
     });
 
